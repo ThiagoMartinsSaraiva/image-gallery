@@ -1,0 +1,14 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "description": "a test project",
+  "main": "public/index.html",
+  "scripts": {
+    "build": "sass --watch --no-source-map src/styles:public/styles --style compressed"
+  },
+  "author": "Thiago Saraiva",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.35.2"
+  }
+}
